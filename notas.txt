@@ -1,0 +1,109 @@
+Acerca de la empresa:
+	- 2
+	-Españita
+	-fisico.
+Datos de los responsables
+	---1---
+	-Javier Cuevas García
+	-7224778358
+	-722477358
+	-cuevasgarciafranciscojavier@gmail.com
+	-12:00-14:00
+	----2---
+	-José Miguel Suarez Quesada
+	-669443173
+	-669443173
+	-josemiguelsuaque@gmail.com
+	-12:00-14:00
+
+Status actual de la página web
+	-Diseño web desde 0
+
+Fecha tentativa de inicio del desarrollow del sitio web
+	-En las proximas 3 semanas
+
+Presupuesto considerado para el desarrollow de la página we
+	-23.400€
+
+Tipo de desarrollo
+	-Creación del sitio web corporativo
+	-Creación de landing page
+	-Crear una tienda online eComemerce
+
+Delinear objetivos del sitio web
+	-Implementar un enfoque en venta
+	-Darse a conocer, haciendo énfasis en la adopción 
+	-Captar nuevos clientes
+	-Dar una imagen a la clínica
+
+Situación del sitio web actual
+	-Inexistente
+	
+Métricas / Analytics
+	-Analytics de tiempo en página, a la vez que "hot spots" y redirecciones
+	-Analisis de tráfico web
+	-Ranking y analíticas geográficas para posterior mejora de i18n
+
+Estructura
+	-Tendrá una pantalla inicial, de presentación transitoria la cual dará paso a la principal
+	-La principal tendrá el nombre, logotivo e información básica
+	-Tendremos un mapa de navegación	
+	-Eventos y noticias
+	-Gestión de usuarios y busqueda
+	-Cesta de la compra
+	-Sistema de adopción
+	
+Datos de contacto
+	-Calle falsa 123
+	-0012346789
+
+Add-ons
+
+	-Sistema de chat
+	-Google maps
+	-Social media timeline
+	-Calendario
+	-Reservación de fechas
+	
+Aspectos tecnicos
+	-aws
+	-Control de versiones usando github
+	-No
+	-Si
+	-Si
+	-Si
+
+User experience
+	-El sitio será accesible para personas con discapacidad
+	-El diseño web será escalable y responsive
+
+Mantenimiento
+	-Agencia
+	
+Presupuesto mensual considerado
+	-On-Demand
+
+Manual de identidad
+	-Crearemos una guia de estilo para el cliente
+
+Competidores
+	-Nadie
+
+Sitios web que consideren como insipiraciçon para el diseño web
+	-kivet.com
+	-veterinarioswecan.com
+
+Estilo de la  nueva imagen pública, fotografias, videos, logotipos etc.
+	-Al ser de nueva creación será especificado en la guia de estilos
+
+Contenido del sitio web
+	-Será relleno por la agencia
+	
+Recursos Humanos
+	-Son los mismo datos que los datos de la agencía
+
+Marketing
+	-Será realizado por una empresa externa
+
+		
+	
